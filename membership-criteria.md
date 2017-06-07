@@ -13,6 +13,7 @@
   * members own and operate the whole ‘charging experience’ - the charging hardware, back office, network operations and customer support
 
 **Roaming criteria**
+
 Integration of fast charging networks is done through peer-to-peer roaming between OFA members
 
 A customer of one member can charge at the network of another member without registering on that network
