@@ -2,7 +2,7 @@ The Open Fastcharging Alliance (OFA) is a group of high quality fast charging op
 
 # Why was OFA created?
 
-OFA was created in 2016 to create a high quality European network of fast charging stations open to all EVs. The most important goal of OFA is interoperability between members. Interoperability includes common quality standards and communication protocols and presentation of information.
+OFA was founded in 2016 to create a high quality European network of fast charging stations open to all EVs. The most important goal of OFA is interoperability between members. Interoperability includes common quality standards and communication protocols and presentation of information.
 
 It is key that EVs can recharge throughout Europe with sufficiently high power. The goal of the OFA is to ensure that long distance electric driving is practical, affordable, easy and reliable.
 
